@@ -49,7 +49,6 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="YKushWrapperTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="YKUSH\Actions\List\ListCommandTest.cs" />
     <Compile Include="YKUSH\Actions\Status\StatusCommandTest.cs" />
