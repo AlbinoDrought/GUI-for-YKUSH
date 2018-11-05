@@ -148,5 +148,10 @@ namespace GhettoYkushGui
                 this.ShowInTaskbar = false;
             }
         }
+
+        private void notifyIcon_MouseDoubleClick(object sender, MouseEventArgs e)
+        {
+            showSelf();
+        }
     }
 }
